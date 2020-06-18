@@ -2,10 +2,10 @@
 Scripts and Gifs samples from a platform game made with Unity
 
 # Main Menu
-![Recordit GIF](Images/Menu animation.gif)
+![Recordit GIF](https://github.com/SPapadakhs/Platform_Game/blob/master/Images/Menu%20animation.gif)
 # Options Menu
-![Recordit GIF](Images/Option Menu.gif)
+![Recordit GIF](https://github.com/SPapadakhs/Platform_Game/blob/master/Images/Option%20Menu.gif)
 # Green Alien Change To Green
-![Recordit GIF](Images/Red alien to green.gif)
+![Recordit GIF](https://github.com/SPapadakhs/Platform_Game/blob/master/Images/Red%20alien%20to%20green.gif)
 # Killing OF The Red Alien
-![Recordit GIF](Images/Kill red alien.gif)
+![Recordit GIF](https://github.com/SPapadakhs/Platform_Game/blob/master/Images/Kill%20red%20alien.gif)
